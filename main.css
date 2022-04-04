@@ -1,0 +1,235 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 0px;
+	margin: 0 auto;
+	color: #FFFFFF;
+	font-size: 20px;
+
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 0px;
+
+}
+div, p, button, form, span, a, ul, li,{
+	font-size: border-box;
+}
+ul, li{
+	display: block;
+}
+.header{
+	background: #323232;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	
+}
+.menu{
+	display: flex;
+	margin: 5px;
+}
+.menu li {
+	margin-left: 30px;
+}
+.menu li a{
+	text-decoration: none;
+	color: #EDEDED;
+	text-transform: uppercase;
+
+}
+h4 {
+	 padding-left: 10px;
+}
+.header-logo{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav{
+	display: flex;
+    align-items: center;
+}
+ul li{
+	border-radius: 10px;
+	border: 2px solid #4D4D4D;
+	width: 100px;
+    text-align: center;
+	padding: 10px 0px;
+}
+.menu-go {
+	padding: 10px 10px;
+}
+.section{
+	background: url('../img/IMAGE.png')no-repeat center top / cover;
+}
+.wrapper{
+	text-align: center;
+}
+.title{
+	padding-bottom: 116px;
+}
+.title h1{
+	font-size: 78px;
+	text-transform: uppercase;
+	padding-top: 69px;
+	
+}
+.text p{
+	color: #E7E2DE;
+	padding-top: 56px;
+	margin: 0px;
+
+}
+.btn a {
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+.btn{
+	width: 134px;
+	border: 2px solid #E7E2DE;
+	padding: 10px 17px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.section-one{
+	background: #C7AA8B;
+}
+.go{
+	display: flex;
+    justify-content: space-between;
+    margin: 0px 50px
+	
+}	
+.go_title{
+	
+	text-align: center;
+	padding-bottom: 83px
+}
+.go_time{
+	text-align: left;
+	width: 287px;
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+	margin: 0px;
+	color: #4D4D4D;
+	
+}
+
+
+.icon{
+	margin-bottom: 35px;
+	margin-top: 25px;
+}
+.go_title h3{
+	font-size: 20px;
+	color: #4D4D4D;
+	padding-top: 80px;
+}
+.section-three{
+	background: url('../img/bgr.png') no-repeat center top / cover;;
+}
+.of h2{
+	padding: 137px 0px;
+	font-size: 47px;
+	width: 865px;
+	color: #C7AA8B;
+	font-family: 'Nunito', sans-serif;
+}
+.team_title {
+	padding-bottom: 92px;
+	color: #4D4D4D;
+}
+.team_text{
+	padding-top: 85px;
+	font-size: 30px;
+}
+.photo_article{
+	font-size: 12px;
+	margin: 0px;
+}
+.photo_title{
+	font-size: 16px;
+	padding: 0px;
+}
+.socialss li{
+	padding: 0px;
+	border: none;
+	width: 30px;
+}
+
+.socialss{
+
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+}
+.social{
+	margin-top: 7px;
+
+}
+.team_title{
+	display: flex;
+	justify-content: center;
+}
+.team_photo{
+	padding-top: 80px;
+    padding-left: 113px;
+	display: flex;
+	justify-content: space-between;
+}
+.photo{
+	padding: 10px;
+}
+.section-five{ 
+	background:#F7F7F7; 
+
+}
+.good h3{
+	padding-top: 79px;
+	color: #323232;
+	font-size: 15px;
+	text-align: center;
+	
+}
+.will {
+	width: 361px;
+	text-align: center;
+}
+.will_hate{
+	font-size: 18px;
+	font-family: 'Nunito', sans-serif;
+}
+.will p{
+	color: #C7AA8B;
+	font-size: 13px;
+	margin-top: 7px;
+	text-transform: uppercase;
+}
+.good_will{
+	display: flex;
+	justify-content:space-around;
+	padding-bottom: 104px;
+}
+.footer{
+	background: #323232;
+}
+
+.wills{
+	font-size: 14px;
+}
+.footers{
+	display: flex;
+	color:  #858585;
+	justify-content: space-between;
+	margin: 0px;
+    padding: 50px 0px;
+}
+.btn_will a{
+	text-decoration: none;
+	color: #C7AA8B;
+	border: 2px solid;
+	padding: 9px 74px;
+	text-transform: uppercase;
+}
